@@ -26,7 +26,7 @@
     "bitcore-mnemonic": "^10.0.0",
     "commander": "2.15.1",
     "crypto-wallet-core": "^10.0.0",
-    "elliptic": "^6.5.3",
+    "elliptic": "^6.6.0",
     "ethers": "5.7.1",
     "level-js": "4.0.2",
     "leveldown": "5.4.1",
